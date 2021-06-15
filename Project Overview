@@ -1,0 +1,12 @@
+Objective of the project is to predict stock movement of all the stocks listed in BSE. This project will have multiple steps into it
+
+Step 1 :: Will be the MVP product which will have
+a) AWS Server with docker installed on it
+b) Python code to start scrapping
+c) Sameple Time Series model to predict price movement
+d) Create one version of following algorithms -- Logistic Regression, KLM, SVM, CART etc.
+
+
+Step 2 :: Improve accuracy of the models created in Step 1. We should develop a repository which has pros and cons of each and every model
+
+Step 3 :: 
